@@ -1,4 +1,4 @@
-# Backend with GraphQL Server
+# Backend with GraphQL, Apollo Server, MongoDB and TypeScript 
 
 ![apollostack-300x300](https://user-images.githubusercontent.com/38211466/44810781-1a26ce00-abd3-11e8-8858-ca3e2a393094.png)
 
