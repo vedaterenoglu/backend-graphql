@@ -79,7 +79,7 @@
 > MONGODB_URI<br/><br/>
 MONGODB_URI_LOCAL<br/><br/>
 MONGODB_DEV<br/><br/>
->### Please follow the instrutions which is given as comments inthe file.
+>### Please follow the instrutions which is given as comments in the file.
 > rename the file ".env.example" as ".env"<br/><br/>
 
 ![dotenv](https://user-images.githubusercontent.com/38211466/45117173-2f60a700-b155-11e8-8fb9-227c30b851c2.png)<br/><br/>
