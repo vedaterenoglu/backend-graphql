@@ -17,7 +17,7 @@ const bookController = {
 		return Book.updateOne({ _id: args._id }, { $set: tempBook });
 	},
 
-	getBooks: () => Book.find({})
+	getBooks: (root: any, args: any) => Book.find({})
 	};
 
 export { bookController };
