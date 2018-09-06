@@ -1,4 +1,4 @@
-# Backend with GraphQL, Apollo Server, MongoDB and TypeScript 
+# Backend with GraphQL, Apollo Server, MongoDB and TypeScript
 
 ![apollostack-300x300](https://user-images.githubusercontent.com/38211466/44810781-1a26ce00-abd3-11e8-8858-ca3e2a393094.png)
 
@@ -98,7 +98,7 @@ npm i
 npm run seed
 ```
 You can see the followings on your terminal<br/><br/>
-![seed](https://user-images.githubusercontent.com/38211466/45116463-148d3300-b153-11e8-808d-f0e98a6980c9.png)<br/><br/>
+![seed-db](https://user-images.githubusercontent.com/38211466/45144024-34594100-b1bd-11e8-8d75-49b78f3c9482.png)<br/><br/>
 
 You can check data insertion with MongoDB Compass <br/><br/>
 ![mongodb-compass](https://user-images.githubusercontent.com/38211466/45116540-54ecb100-b153-11e8-8308-42de3f378326.png)
@@ -112,7 +112,7 @@ You can check data insertion with MongoDB Compass <br/><br/>
 npm run dev
 ```
 You can see the followings on your terminal<br/><br/>
-![npm-run-dev](https://user-images.githubusercontent.com/38211466/45116737-01c72e00-b154-11e8-845a-756dccaae65e.png)
+![npm-run-dev](https://user-images.githubusercontent.com/38211466/45144152-95811480-b1bd-11e8-8a5f-58858d1cd5e6.png)
 
 * Open your browser and see the server running on `localhost:4300/graphql` with the GraphQL playground.
 
@@ -192,6 +192,19 @@ mutation {
   }
 }
 ```
+
+* Run in development mode
+!!! If you want add example data to MongoDB Don't forget to seed it.
+```js
+npm run seed
+```
+### Production mode
+```js
+// run in production mode
+
+npm run dev
+```
+![npm-run-prod](https://user-images.githubusercontent.com/38211466/45144232-d6792900-b1bd-11e8-9f3d-4413b4d87599.png)<br/><br/>
 
 ## Documentation
 

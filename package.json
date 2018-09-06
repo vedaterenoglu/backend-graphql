@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Backend with GraphQL, Apollo Server, MongoDB and TypeScript",
   "main": "src/server.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedaterenoglu/backend-graphql"},
   "keywords": [
     "MongoDB",
     "Mongoose",
@@ -16,7 +19,8 @@
     "Shortid",
     "nodemon",
     "prettier",
-    "tslint"
+    "tslint",
+    "bluebird"
   ],
   "author": "Vedat Erenoglu",
   "license": "MIT",
