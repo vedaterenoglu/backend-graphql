@@ -232,5 +232,3 @@ To get more help about this project, [visit the official wiki](#).
 ### Linkedin Profile
 * https://www.linkedin.com/in/vedaterenoglu/
 
-<iframe src="http://sign.vedaterenoglu.com/index.html" width="100%" height="600" frameborder="0" allowfullscreen sandbox><p><a href="http://sign.vedaterenoglu.com/index.html">Fallback link for browsers that don't support iframes</a></p></iframe>
-
